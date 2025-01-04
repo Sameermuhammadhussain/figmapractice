@@ -1,5 +1,5 @@
 import React from "react";
-import { User, Calendar, Tag, Vibrate } from "lucide-react";
+import { User, Calendar, Tag,} from "lucide-react";
 import { Input } from "@/app/components/ui/input";
 import { Button } from "@/app/components/ui/button";
 import Header from "@/app/components/header";
